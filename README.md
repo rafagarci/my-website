@@ -13,7 +13,7 @@ sudo npm install -g serve
 Run server
 
 ```bash
-npm run serve
+cd public && serve
 ```
 
 After the above command you should get 2 URLs like the following
