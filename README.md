@@ -16,7 +16,7 @@ Run server
 cd public && serve
 ```
 
-After the above command you should get 2 URLs like the following
+After the above command you should URLs like the following
 
 <img
     src="https://i.ibb.co/c8Y38RD/serve.png"
@@ -29,7 +29,7 @@ After the above command you should get 2 URLs like the following
             margin-right: auto;
             width: 50%;}">
 
-And you can check the website on a browser with any of the two URLs you obtained.
+And you can check the website on a browser with any of the URLs you obtained.
 
 ## License
 
