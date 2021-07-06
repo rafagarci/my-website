@@ -2,7 +2,7 @@
 
 ## Setup
 
-In order to run locally you need to have `npm` and `serve` installed globally or locally.
+In order to run locally you need to have `npm` and `serve` installed.
 
 Install `serve` globally with `npm`
 
