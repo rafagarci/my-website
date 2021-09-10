@@ -2,34 +2,15 @@
 
 ## Setup
 
-In order to run locally you need to have `npm` and `serve` installed.
+1. Clone the repository
 
-Install `serve` globally with `npm`
+2. Install dependencies: `npm install`
 
-```bash
-sudo npm install -g serve
-```
+3. Run the server: `npm run start`
 
-Run server
+**Note:** The server runs on port `8080` by default, you can change that on `index.js`.
 
-```bash
-cd public && serve
-```
-
-After the above command you should URLs like the following
-
-<img
-    src="https://i.ibb.co/c8Y38RD/serve.png"
-    alt="Running on Mac"
-    class ="center"
-    style="
-        .center {
-            display: block;
-            margin-left: auto;
-            margin-right: auto;
-            width: 50%;}">
-
-And you can check the website on a browser with any of the URLs you obtained.
+You can check the website on a browser with the URL you obtained on the command line.
 
 ## License
 

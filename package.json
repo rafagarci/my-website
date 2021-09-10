@@ -1,20 +1,22 @@
 {
-  "name": "rafagarci",
+  "name": "my-website",
   "version": "1.0.0",
   "description": "My personal website",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "serve": "serve public"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/rafagarci/my-website.git"
   },
   "author": "Rafael García",
-  "license": "ISC",
+  "license": "GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/rafagarci/my-website/issues"
   },
-  "homepage": "https://github.com/rafagarci/my-website#readme"
+  "homepage": "https://github.com/rafagarci/my-website#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
